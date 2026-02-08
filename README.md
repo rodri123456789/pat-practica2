@@ -17,7 +17,6 @@ A continuación se detallan los endpoints disponibles para interactuar con el re
 ###  Ejemplo de Cuerpo (JSON)
 
 Cuerpo válido para las peticiones `POST` y `PUT`.
-*Nota: El campo `precioFinal` se incluye en el cuerpo por simplicidad según el enunciado.*
 
 ```json
 {
